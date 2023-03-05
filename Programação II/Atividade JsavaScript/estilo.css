@@ -1,0 +1,22 @@
+button {
+    background-color: cyan;
+    width: 200px;
+    height: 100px;
+	position: absolute;
+}
+
+#bt1 {left: 20px;}
+
+#bt2 {left: 240px;}
+
+#bt3 {left: 460px;}
+
+#bt4 {left: 680px;}
+
+#bt5:hover {opacity: 0}
+
+#texto {
+	position: absolute;
+	left: 20px;
+	top: 140px;
+}
